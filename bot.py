@@ -16,7 +16,7 @@ from telegram.request import HTTPXRequest
 
 # ==================== CONFIGURATION SECTION  ====================
 
-BOT_TOKEN = "8939694375:AAELXGmuAU2h1L2Aw1yLs7mjf2exLbK8jsg"
+BOT_TOKEN = "8939694375:AAFZ0bVcnoEetpBfDDNu_qEHzyMUssOMcOc"
 ADMINS = [8540097244]
 
 # ডাটা ফাইল নির্দেশিকা
